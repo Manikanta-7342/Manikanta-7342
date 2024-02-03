@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **PharmAIcist**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/manikanta-7342](https://manikanta-408s.onrender.com)]
+- 👨‍💻 All of my projects are available [here](https://manikanta-408s.onrender.com)]
 - 📫 How to reach me **maniadishu7342@gmail.com**
 
 - 📄 Know about my experiences [https://manikanta-408s.onrender.com/resume.html](https://manikanta-408s.onrender.com/resume.html)

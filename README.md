@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manikanta</h1>
-<h3 align="center">A passionate Deer Learning Engineering</h3>
+<h3 align="center">A passionate Deep Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikanta-7342&label=Profile%20views&color=0e75b6&style=flat" alt="manikanta-7342" /> </p>
 
